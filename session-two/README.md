@@ -28,6 +28,8 @@ A section concerning comparision.
 			   
 ### Paul Hollywood Loves These Berries Too
 
+LIT!!! HE LOVES 'EM!
+
 <param ve-video
                src="895DfGuoqvU">
 
