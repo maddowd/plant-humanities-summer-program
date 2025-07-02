@@ -31,12 +31,18 @@ A section concerning comparision.
 LIT!!! HE LOVES 'EM!
 
 <param ve-video
-               src="895DfGuoqvU">
-
-<param ve-video
                src="895DfGuoqvU"
-               start="3:40"
-               end="4:00">
+               start="1:20"
+               end="2:20"
+	   Caption="Tastyyyyyyy Paul">
+
+### Primary Source
+
+Filler, Killer, Thriller, Tiller (of soil), Griller. 
+
+<param ve-iframe
+               src="https://archive.org/details/CAT31118531/page/n2">
+
 
 
 [^1]: Statistic courtesy of the Madeleine Archives.
