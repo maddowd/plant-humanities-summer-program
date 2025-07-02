@@ -10,7 +10,7 @@ layout="vertical">
 
 ###Introduction 
 
-Filler Paragraph!
+My name is maddie i like strawberries i am writing a filler paragraph i am typing as fast as possible but it's still not very fast et cetera
 
 <param ve-image
 	   src="gh:maddowd/plant-humanities-summer-program/main/session-two/Strawb.jpg"
