@@ -8,7 +8,7 @@ height=100
 author="Madeleine Berry"
 layout="vertical">
 
-###Introduction 
+### Introduction 
 
 My name is maddie i like strawberries i am writing a filler paragraph i am typing as fast as possible but it's still not very fast et cetera. Madeleines eat 100 strawberries per week.[^1]
 
@@ -16,7 +16,7 @@ My name is maddie i like strawberries i am writing a filler paragraph i am typin
 	   src="gh:maddowd/plant-humanities-summer-program/main/session-two/Strawb.jpg"
 	   caption="An advertisement of a strawberry from *Allan's Strawberry Catalogue*, 1899">
 	   
-###Comparison Section 
+### Comparison Section 
 
 A section concerning comparision. 
 
@@ -26,4 +26,15 @@ A section concerning comparision.
 <param ve-compare
                src="wc:Garden_strawberry_(Fragaria_×_ananassa)_halved.jpg">
 			   
+### Paul Hollywood Loves These Berries Too
+
+<param ve-video
+               src="895DfGuoqvU">
+
+<param ve-video
+               src="895DfGuoqvU"
+               start="3:40"
+               end="4:00">
+
+
 [^1]: Statistic courtesy of the Madeleine Archives.
