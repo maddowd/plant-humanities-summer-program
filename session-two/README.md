@@ -10,8 +10,20 @@ layout="vertical">
 
 ###Introduction 
 
-My name is maddie i like strawberries i am writing a filler paragraph i am typing as fast as possible but it's still not very fast et cetera
+My name is maddie i like strawberries i am writing a filler paragraph i am typing as fast as possible but it's still not very fast et cetera. Madeleines eat 100 strawberries per week.[^1]
 
 <param ve-image
 	   src="gh:maddowd/plant-humanities-summer-program/main/session-two/Strawb.jpg"
 	   caption="An advertisement of a strawberry from *Allan's Strawberry Catalogue*, 1899">
+	   
+###Comparison Section 
+
+A section concerning comparision. 
+
+<param ve-compare
+               src="wc:Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg"
+               caption="Strawberry">
+<param ve-compare
+               src="wc:Garden_strawberry_(Fragaria_×_ananassa)_halved.jpg">
+			   
+[^1]: Statistic courtesy of the Madeleine Archives.
