@@ -42,9 +42,9 @@ Lettuce try this a different way Part 3.
 		   caption="Strawberry's Native Distribution.">
 							  
 <param ve-map-layer geojson
-							  url="https://github.com/maddowd/plant-humanities-summer-program/main/session-four/Strawberry.Json"
-	   show-labels
-	   stroke-width="0">
+			   url="https://raw.githubusercontent.com/maddowd/plant-humanities-summer-program/main/session-four/Strawberry.Json"
+			   show-labels
+			   stroke-width="0">
 		   
 
 		   
