@@ -22,8 +22,29 @@ Red and tasty . . . *so tasty!*  For all your life, you have taken this noble be
 Lettuce try this a different way. 
 
 <param ve-map
-		   center="Q1264942"
+		   center="Q7414131"
 		   zoom="17"
 		   caption="This is the location of Dumbarton Oaks in Washington, D.C.">	   
+
+### Map using Open Street Map
+Lettuce try this a different way Part 2. 
+
+<param ve-map
+		   center="37.786169,-122.491897"
+		   zoom="19"
+		   caption="This is the location of my house.">	   
+
+Lettuce try this a different way Part 3. 
+
+<param ve-map prefer-geojson
+		   center="7.9,3.4"
+		   zoom=1.1
+		   caption="Strawberry's Native Distribution.">
+							  
+<param ve-map-layer geojson
+							  url="https://github.com/maddowd/plant-humanities-summer-program/main/session-four/Strawberry.Json"
+	   show-labels
+	   stroke-width="0">
 		   
+
 		   
